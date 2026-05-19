@@ -187,12 +187,12 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 
 ## Compute metrics
 
-<img width="569" height="453" alt="image" src="https://github.com/user-attachments/assets/4ae33371-5604-479d-b645-a89a61e9ecad" />
+<img width="710" height="491" alt="Screenshot 2026-05-19 104353" src="https://github.com/user-attachments/assets/b140001d-6ae9-4e05-b84b-3026d5dabbb2" />
 
 
 ### Data Prediction
 
-<img width="357" height="106" alt="image" src="https://github.com/user-attachments/assets/bd719048-5909-4677-9133-f7ace93da342" />
+<img width="440" height="62" alt="image" src="https://github.com/user-attachments/assets/ff10d2b5-30e0-4fac-aca7-7e4cad7220ea" />
 
 
 ## RESULT
